@@ -1,0 +1,31 @@
+.navigation {
+    background-color: aquamarine;
+    padding: 1% 0% 1% 0%;
+}
+
+.navigation ul li {
+    display: inline;
+    padding: 2%;
+}
+
+.navigation ul {
+    text-align: right;
+}
+
+.navigation ul li a {
+    text-decoration: none;
+    color: blue;
+}
+
+.box {
+    color: white;
+}
+
+.box h2 {
+    color: chocolate;
+    text-transform: uppercase;
+}
+
+.box ul li {
+    color: black;
+}
